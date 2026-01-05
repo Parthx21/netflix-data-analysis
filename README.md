@@ -29,4 +29,4 @@ This project performs Exploratory Data Analysis (EDA) on Netflix movies and TV s
 3. Run the notebook in Jupyter
 
 ## 📌 Author
-Your Name
+Parthsarthi Sharma
